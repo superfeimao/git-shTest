@@ -1,2 +1,5 @@
 hello, git!
+<<<<<<< HEAD
 这是有master分支修改的哦！
+这是分支hot-fix修改的哦!
+>>>>>>> hot-fix
